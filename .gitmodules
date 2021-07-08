@@ -1,0 +1,3 @@
+[submodule "confluent-kafka-go"]
+	path = confluent-kafka-go
+	url = https://github.com/confluentinc/confluent-kafka-go.git
